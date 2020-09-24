@@ -1,7 +1,8 @@
 # Linkedin EasyApply Bot
-Automate the application process on LinkedIn
 
-Medium Article - 
+**Automate the application process on LinkedIn**
+
+*Medium Article - *
 
 ## Setup 
 
