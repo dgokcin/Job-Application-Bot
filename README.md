@@ -2,7 +2,7 @@
 
 **Automate the application process on LinkedIn**
 
-*Medium Article - https://medium.com/@alijnmerchant/automated-bot-to-apply-for-jobs-linkedin-easy-apply-49c385d7f6ee *
+*Medium Article - https://medium.com/@alijnmerchant/automated-bot-to-apply-for-jobs-linkedin-easy-apply-49c385d7f6ee*
 
 ## Setup 
 
