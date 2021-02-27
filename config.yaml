@@ -1,42 +1,22 @@
-username: example@alijnmerchant.com
+username: **********
 password: **********
 
 positions:
-  - Blockchain
-  #- Software
-  
+  - Software Engineer
+  - Mid Software Developer
+  - Mid Level DevOps Engineer
+  - Python Developer
 
 locations:
-  #- Canada
-  - New York
-  - Chicago
-  - Los Angeles
-  - Boston
-  - Palo Alto
-  - Austin
-  - Menlo Park
-  - Seattle
-  - Denver
-  - Atlanta
-  - Sunnyvale
-  - Mountain View
-  - San Jose
-  - Portlant
-  - San Diego
-  - Nashville
-  - Oakland
-  - Santa Clara
-  - Washington DC
-  - San Francisco
-  #- Vancouver
-  - Tampa
-  #- Remote
+  - Istanbul
+  - Amsterdam
+  - Berlin
 
 # --------- Optional Parameters -------
 uploads:
-  Resume: /Users/aliasgarmerchant/Desktop/LinkedIn-Easy-Apply-Bot/Resume_A.pdf 
-  Cover Letter: /Users/aliasgarmerchant/Desktop/LinkedIn-Easy-Apply-Bot/Cover_G.docx
-  City: Jersey City, New Jersey, United States
+  Resume: /home/deniz/codes/deniz-gokcin-cv/deniz-gokcin-cv.pdf
+  #Cover Letter: /Users/aliasgarmerchant/Desktop/LinkedIn-Easy-Apply-Bot/Cover_G.docx
+  #City: Jersey City, New Jersey, United States
 #  Photo: # PATH TO photo
 
 
